@@ -8,7 +8,7 @@ Each ticket documents a reported technical issue, the troubleshooting process, d
 
 | Ticket | Issue | Category | Status |
 |---|---|---|---|
-| [Ticket #001](ticket-001-windows-slow-performance.md) | Windows computer running slowly | Windows Support | In Progress |
+| [Ticket #001](ticket-001-active-directory-user-attributes.md) | Inaccurate account information | Active Directory | Resolved |
 
 ## Documentation Standards
 
