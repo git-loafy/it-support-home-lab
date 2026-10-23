@@ -8,7 +8,7 @@ Each ticket documents a reported technical issue, the troubleshooting process, d
 
 | Ticket | Issue | Category | Status |
 |---|---|---|---|
-| [Ticket 001 — Active Directory User Attributes](tickets/001-active-directory-user-attributes.md) | Inaccurate account information | Active Directory | Resolved |
+| [Ticket 001 — Active Directory User Attributes](001-active-directory-user-attributes.md) | Inaccurate account information | Active Directory | Resolved |
 
 ## Documentation Standards
 
@@ -21,3 +21,4 @@ Each ticket aims to include:
 - Verification and closure notes
 
 **Note:** These tickets are educational simulations. Simulated scenarios and observations are identified as such and are not presented as real workplace experience.
+
