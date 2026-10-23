@@ -25,9 +25,19 @@ I'm developing practical skills through structured labs and simulated help desk 
 | `asset-management/` | IT asset inventories, device tracking, hardware records, and lifecycle documentation |
 | `troubleshooting-guides/` | Step-by-step technical guides, diagnostic workflows, and reusable problem-solving procedures |
 
-## Current Labs
+## Completed Labs
 
-- **Ticket #001:** Windows computer running slowly — initial investigation.
+### Simulated Help Desk Tickets
+
+Completed four Tier 1 troubleshooting exercises in the SysDesks simulated ticketing environment.
+
+| Ticket | Scenario | Skills Practiced | Status |
+|---|---|---|---|
+| [Ticket 001 — Managed Device Wi-Fi](tickets/ticket-001-managed-device-wifi.md) | Tablet unable to access an internal inventory service | Wi-Fi troubleshooting, remote support, connectivity verification | Resolved |
+| [Ticket 002 — Active Directory User Attributes](tickets/ticket-002-active-directory-user-attributes.md) | Outdated user account information | Active Directory fundamentals, user attribute management, verification | Resolved |
+| [Ticket 003 — Email Filter Troubleshooting](tickets/ticket-003-email-filter-troubleshooting.md) | Inbox messages appeared to be missing | Email troubleshooting, filter configuration, user confirmation | Resolved |
+| [Ticket 004 — Display Resolution](tickets/ticket-004-display-resolution.md) | Display appeared large and blurry | Display configuration, resolution settings, verification | Resolved |
+
 
 ## Tools and Environment
 
