@@ -1,4 +1,4 @@
-# Ticket 001: Active Directory User Attributes Troubleshooting
+# Ticket 002: Active Directory User Attributes Troubleshooting
 
 **Environment:** SysDesks ticketing simulation  
 **Category:** Identity > User Attributes 
