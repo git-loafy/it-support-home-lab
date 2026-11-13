@@ -96,6 +96,7 @@ Used the `show ip interface brief` command on the Cisco ISR4331 router to inspec
 
 **Command Used:**
 `show ip interface brief`
+
 *Figure 5: Router interface status and IP address assignments displayed.*
 <img width="1356" height="1556" alt="IMG_7725" src="https://github.com/user-attachments/assets/c81b5eb3-7111-449a-8ab5-c8bf158bb67b" />
 
@@ -114,6 +115,7 @@ Used the `show interfaces` command on the 3300-24TS Ethernet switch to inspect i
 
 **Command Used:**
 `show interfaces`
+
 *Figure 6: Ethernet switch interface status displaying operational and inactive ports.*
 <img width="1356" height="1655" alt="IMG_7727" src="https://github.com/user-attachments/assets/511b21e4-827f-4831-8785-fe169b4e38b7" />
 
