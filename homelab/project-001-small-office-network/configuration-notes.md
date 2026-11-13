@@ -4,6 +4,7 @@
 
 The simulated network uses a centralized Ethernet switch connected to a router, three client workstations, a network server, and a network printer.
 
+*Figure 1: Simulated small office network topology.*
 <img width="1000" height="1125" alt="IMG_7708" src="https://github.com/user-attachments/assets/971eec36-4375-4809-a5f5-f69cce4f8124" />
 
 
@@ -43,6 +44,7 @@ Verified the following:
 - Subnet Mask: 255.255.255.0
 - Default Gateway: 192.168.10.1
 
+*Figure 2: PC IPv4 configuration using ipconfig.* 
 <img width="2732" height="1568" alt="IMG_7715" src="https://github.com/user-attachments/assets/d3dd4ad1-8e06-409a-a59f-2096e04d8a45" />
 
 
@@ -73,7 +75,7 @@ All seven confirmed tests returned:
 The tests confirmed IP connectivity between PC 1 and its gateway, other workstations, server, and printer, as well as between the printer and server.
 
 ### Testing Evidence
-
+*Figure 3 and 4: Successful connectivity between network devices.* 
 <img width="2730" height="1038" alt="Bazaart_2026-11-12_175826" src="https://github.com/user-attachments/assets/0cb35a7a-499b-4870-8257-b61f030a1344" />
 <img width="2730" height="1565" alt="Bazaart_2026-11-12_175957" src="https://github.com/user-attachments/assets/7c04f2e4-1f7e-4a56-b701-8857b27f2591" />
 
@@ -94,7 +96,7 @@ Used the `show ip interface brief` command on the Cisco ISR4331 router to inspec
 
 **Command Used:**
 `show ip interface brief`
-
+*Figure 5: Router interface status and IP address assignments displayed.*
 <img width="1356" height="1556" alt="IMG_7725" src="https://github.com/user-attachments/assets/c81b5eb3-7111-449a-8ab5-c8bf158bb67b" />
 
 
@@ -104,7 +106,7 @@ Used the `show interfaces` command on the 3300-24TS Ethernet switch to inspect i
 
 ### Results
 
-- First six Ethernet interfaces: UP, line protocol UP.
+- First six connected Ethernet interfaces: UP, line protocol UP.
 - Remaining Ethernet interfaces: DOWN, line protocol DOWN.
 - Six active connections correspond to the router, three client computers, server, and network printer.
 
@@ -112,7 +114,7 @@ Used the `show interfaces` command on the 3300-24TS Ethernet switch to inspect i
 
 **Command Used:**
 `show interfaces`
-
+*Figure 6: Ethernet switch interface status displaying operational and inactive ports.*
 <img width="1356" height="1655" alt="IMG_7727" src="https://github.com/user-attachments/assets/511b21e4-827f-4831-8785-fe169b4e38b7" />
 
 
