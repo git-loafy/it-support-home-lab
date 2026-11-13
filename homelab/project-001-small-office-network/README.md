@@ -25,10 +25,16 @@ Design and configure a simulated small office network that allows multiple clien
 - Configured default gateway settings.
 
 ## Testing and Verification
-- Verified IP configurations using ‘ipconfig’.
-- Tested connectivity between client devices, default gateway, and confirmed communication with the server and network printer using ‘ping’.
+- Verified IP configurations using `ipconfig`.
+- Tested connectivity between PC 1, the default gateway, other workstations, the server, and network printer using `ping`.
+- Inspected router interface addresses and operational status using `show ip interface brief`.
+- Verified switch interface connectivity and operational status using `show interfaces`.
+- Confirmed that all six connected devices had operational Ethernet links through the central switch.
 
 ## Troubleshooting
+- Identified an incorrect default gateway configuration preventing PC 1 from communicating with the router.
+- Corrected the gateway address from 192.168.1.1 to 192.168.10.1.
+- Retested connectivity and confirmed successful communication with the router with 0% packet loss.
 
 ## Skills Practiced
 - IPv4 addressing
