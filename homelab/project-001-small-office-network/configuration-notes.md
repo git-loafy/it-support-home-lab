@@ -64,7 +64,7 @@ Connectivity was tested using the `ping` command to verify communication between
 
 ### Ping Test Results
 
-All six confirmed tests returned:
+All seven confirmed tests returned:
 - Packets Sent: 4
 - Packets Received: 4
 - Packet Loss: 0%
