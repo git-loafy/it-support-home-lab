@@ -25,10 +25,8 @@ Design and configure a simulated small office network that allows multiple clien
 - Configured default gateway settings.
 
 ## Testing and Verification
-- Verified IP configurations using **ipconfig**.
-- Tested connectivity between client devices using **ping**.
-- Verified connectivity to the default gateway.
-- Confirmed communication with the server and network printer.
+- Verified IP configurations using ‘ipconfig’.
+- Tested connectivity between client devices, default gateway, and confirmed communication with the server and network printer using ‘ping’.
 
 ## Troubleshooting
 
