@@ -164,9 +164,7 @@ Device Manager (`devmgmt.msc`) was used to inspect installed hardware devices an
 
 ### 5.1 Hardware Inspection
 
-**Screenshot: Device Manager — Hardware Categories**
-
-![Device Manager](screenshots/device-manager.png)
+<img width="1558" height="1470" alt="IMG_7804" src="https://github.com/user-attachments/assets/5fd5f89a-4e05-451d-859c-b6548806e8e1" />
 
 **Observations:**
 
@@ -200,9 +198,7 @@ Unlike Task Manager, Resource Monitor provides more detailed information about i
 
 ### 6.1 Resource Monitoring
 
-**Screenshot: Resource Monitor — CPU, Memory, Disk, and Network**
-
-![Resource Monitor](screenshots/resource-monitor.png)
+<img width="2730" height="603" alt="Bazaart_2026-11-13_213848" src="https://github.com/user-attachments/assets/7625d340-a1b4-4f5a-a894-fa98a13640ff" />
 
 **Observations:**
 
@@ -234,15 +230,13 @@ Unlike Task Manager, Resource Monitor provides more detailed information about i
 
 **What I Learned:**
 
-Resource Monitor provides a more detailed view of system resource utilization than Task Manager.
-
-It allows technicians to examine individual processes and investigate CPU, memory, disk, and network activity.
+Resource Monitor provides a more detailed view of system resource utilization than Task Manager and allows technicians to examine individual processes and investigate CPU, memory, disk, and network activity.
 
 The Memory tab also demonstrates how Windows manages physical memory, including memory in use, modified memory, standby memory, and free memory.
 
 The Disk and Network tabs provide additional visibility into individual processes generating storage and network activity.
 
-These capabilities can assist technicians in investigating performance complaints and identifying processes that may be contributing to resource utilization.
+These capabilities can help technicians to investigate performance complaints and identifying processes that may be contributing to resource utilization.
 
 ---
 
