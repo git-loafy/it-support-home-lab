@@ -143,12 +143,12 @@ Event Viewer (`eventvwr.msc`) was used to examine Windows system logs.
 
 **Event Information:**
 
-- Log:
-- Source:
-- Event ID:
-- Level:
-- Date and Time:
-- Description:
+- Log: System
+- Source: Serial
+- Event ID: 36
+- Level: Error
+- Date and Time: 11/13/2026 3:13 PM
+- Description: While validating that \Device\Serial0 was really a serial port, the contents of the divisor latch register was identical to the interrupt enable and the receive registers. The device is assumed not to be a serial port and will be deleted
 
 **What I Learned:**
 
